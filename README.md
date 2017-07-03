@@ -5,6 +5,8 @@ Once I get is wrapped up I'll put it on the chrome webstore.
 
 The options for [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable) are passed via "optionsCSV"
 
+**Note:** the patten for formatting a Markdown Table is influnced by [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable) heavly.
+
 
 ## To use with Caret
 
