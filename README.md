@@ -1,7 +1,7 @@
 # Caret-Plugin-Table-Tools
 This Caret plugin currently allows for CSV to be converted to Markdown and soon for easy Markdown table formatting.  Eventually it will allow for HTML formatting as well.
 
-Here's the [link](https://chrome.google.com/webstore/search/npkbhkdbgkoanfjllmookbonhfpckdel) to the extension on the chrome webstore.
+Here's the [link](https://chrome.google.com/webstore/detail/caret-plugintable-tools/npkbhkdbgkoanfjllmookbonhfpckdel) to the extension on the chrome webstore.
 
 The options for [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable) are passed via "optionsCSV"
 
