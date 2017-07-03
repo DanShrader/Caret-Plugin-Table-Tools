@@ -1,0 +1,9 @@
+{
+	"manifest_version": 2,
+	"name": "Caret Plugin::Markdown Tools",
+	"description": "This plugin is a collection of Markdown tools in Caret Editor.",
+	"version": "1.0.0",
+	"background": {
+		"scripts": ["background.js"]
+	}
+}
