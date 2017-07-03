@@ -1,17 +1,17 @@
 # Caret-Plugin-Table-Tools
 This Caret plugin currently allows for CSV to be converted to Markdown and soon for easy Markdown table formatting.  Eventually it will allow for HTML formatting as well.
 
-Once I get is wrapped up I'll put it on the chrome webstore.
+Here's the [link](https://chrome.google.com/webstore/search/npkbhkdbgkoanfjllmookbonhfpckdel) to the extension on the chrome webstore.
 
 The options for [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable) are passed via "optionsCSV"
 
-**Note:** the patten for formatting a Markdown Table is influnced by [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable) heavly.
+**Note:** the patten for formatting a Markdown Table is influenced by [CSV To Markdown Table](https://github.com/donatj/CsvToMarkdownTable).
 
 
 ## To use with Caret
 
 You'll need to add the following to your api.json file, under settings menu.  This plugin
-can pass the same options that JS-Beautify does in the 'options' tag.  **Note:** The id is the id found under extensions.
+can pass the same options that JS-Beautify does in the 'options' tag.  **Note:** The id is the id found under extensions. The one in here is for hte plugin on the webstore.
 
 ### api.json
 
@@ -23,7 +23,7 @@ can pass the same options that JS-Beautify does in the 'options' tag.  **Note:**
 			"data": "message can be any JSON object passable to chrome.runtime.sendMessageExternal"
 		}
 	},"CSV-to-MD": {
-		"id": "gaonahnbhbpdimakadahmbogdfdhlifg",
+		"id": "npkbhkdbgkoanfjllmookbonhfpckdel",
 		"message": {
 		  "command":"CSV-to-MD",
 			"optionsCSV": {
@@ -36,7 +36,7 @@ can pass the same options that JS-Beautify does in the 'options' tag.  **Note:**
 		"sendEditorContext": true
 	}
 	,"Pretty-MD": {
-		"id": "gaonahnbhbpdimakadahmbogdfdhlifg",
+		"id": "npkbhkdbgkoanfjllmookbonhfpckdel",
 	  "message": {
 	    "command":"Pretty-MD"
 	  },
